@@ -17,7 +17,7 @@ Project 4: Robotic Process Automation (RPA) Testing
 Project 5: Reporting and Data Visualization
 
 Documentation
-You can access the project documentation here.
+You can access the project documentation at this link: (link to be added)
 
 Branching Strategy
 We will use a simple but effective branching strategy for this project to ensure code quality and smooth collaboration.
@@ -55,13 +55,13 @@ node_modules/
 
 Storing Credentials and Sensitive Information
 
-1. It is crucial to keep credentials and sensitive information secure. Here are some practices to follow:
+1. It is crucial to keep credentials and sensitive information secure. Here are some practices we follow:
 
-Environment Variables: Use environment variables to store sensitive information. These can be defined in a .env file, which should be added to the .gitignore file to prevent it from being committed.
+Environment Variables: we use environment variables to store sensitive information. These can be defined in a .env file, which should be added to the .gitignore file to prevent it from being committed.
 
-Configuration Files: Do not store sensitive information directly in configuration files. Instead, reference environment variables in these files.
+Configuration Files: we do not store sensitive information directly in configuration files. Instead, reference environment variables in these files.
 
-Secrets Management: Use secrets management tools or services (such as Azure Key Vault, AWS Secrets Manager, etc.) for production environments.
+Secrets Management: we will use secrets management tools or services (such as Azure Key Vault, AWS Secrets Manager, etc.) for production environments.
 Labels
 
 
@@ -73,4 +73,4 @@ Project: For tasks related to project work.
 
 Training: For tasks related to training and upskilling.
 
-Other labels: Any additional labels that are relevant to your specific tasks and workflow.
+Other labels: Any additional labels that are relevant to specific tasks and workflow such as reminders and notes.
