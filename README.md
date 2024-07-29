@@ -2,8 +2,6 @@
 Project 1 Repository
 
 
-Sure, here is the content you can include in your README.md file:
-
 CMPG 323 Overview - 42264634
 Project Repositories
 This repository will serve as the main overview repository for the CMPG 323 module. The specific repositories for each project are as follows:
